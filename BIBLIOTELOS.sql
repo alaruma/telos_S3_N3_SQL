@@ -375,7 +375,7 @@ WHERE l.dta_dvol IS NULL
 GROUP BY b.id_livro, b.titulo
 ORDER BY total_emprestado DESC;
 
--- Verificar emprestimos por usuário e titulo e livro
+-- Verificar emprestimos dos usuário  por titulo do livro
 
 SELECT
 u.nome,
@@ -390,7 +390,7 @@ FROM loans AS l
 INNER JOIN users AS u ON l.id_user = u.id_user
 INNER JOIN books AS b ON l.id_livro = b.id_livro where l.dta_dvol is null;
 
--- livros devolvidos 
+-- livros devolvidos por usuarios
 SELECT
 u.nome,
 u.email,
