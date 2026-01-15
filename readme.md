@@ -1,8 +1,7 @@
 ## Sistema de Gerenciamento de Livros para Biblioteca télos
 
 -- Contexto do Desafio
-Desenvolver um sistema de gerenciamento de livros para Biblioteca Télos. O sistema deve permitir que os usuários (bibliotecários) realizem operações de empréstimo e devolução
-de livros, além de gerenciar o catálogo de livros e os registros de usuários.
+Desenvolver um sistema de gerenciamento de livros para Biblioteca Télos. O sistema deve permitir que os usuários (bibliotecários) realizem operações de empréstimo e devolução de livros, além de gerenciar o catálogo de livros e os registros de usuários.
 
 ## Objetivo
 Criar um sistema completo de gerenciamento de livros, incluindo as funcionalidades de adicionar, atualizar, excluir e buscar livros, gerenciar
@@ -24,4 +23,3 @@ combinadas de múltiplas tabelas.
 armazenados para operações comuns.
 ● Aggregate Functions: Uso de funções agregadas para gerar relatórios.
 
-## Principais Querys

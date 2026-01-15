@@ -503,4 +503,16 @@ ORDER BY total_leituras DESC;
 
 select * from genero_mais_lido 
 
+-- dados de analise
+
+select 
+	b.genero as genero,
+	
+COUNT(*) FILTER (WHERE nacionalidade = 'Brasileira') AS qtd_litnacional,
+    
+       COUNT(*) FILTER (WHERE nacionalidade = 'Estrangeira') AS qtd_litestrangeira,
+COUNT(*) as total_livros
+from books b
+group by  genero
+order by total_livros;
 

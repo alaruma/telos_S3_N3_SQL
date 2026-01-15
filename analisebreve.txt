@@ -1,0 +1,14 @@
+Com o banco de dadodos da BiblioTelos é possivel observar que:
+1. Há 19 titulos Brasileiros na biblioteca, desses LITERATURA CONTEMPORÂNCIA SE DESTAQUE NO ACERVO.
+Há mais livros Estrangeiros do gênero: fantasia
+O gênero mais lido é a fantasia ( de literatura estrangeira)
+Ha uma grande quantidade de usuarios ativos que  não estão levando livros emprestados. 
+       O que isso pode sinalizar para a biblioteca?
+       O que pode ser feito para entender as motivações desses usuarios? E atraí-los para a biblioteca?
+       O publico que mais não movimentou na biblioteca é brasileiro.
+       O publico brasileiro é maioria na biblioteca.
+       
+
+Ha livros emprestado há mais de 600 dias com usuarios ativos. 
+Isso parece um mal indicativo para o monitoramento de estoque e ciclo de vida de emprestimo. É prejuizo deixar livros ha tanto tempo sem voltar para o estoque, atrapalha o fluxo de leitura de outros usuarios
+
